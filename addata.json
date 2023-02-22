@@ -1,5 +1,5 @@
 {
-    "platform": "0",
+    "platform": 0,
     "google":{
         "splash":"ca-app-pub-8735546255287972/4391220272",
         "rewarded":"ca-app-pub-8735546255287972/2319041966",
