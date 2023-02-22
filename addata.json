@@ -1,0 +1,14 @@
+{
+    "platform": "0",
+    "google":{
+        "splash":"ca-app-pub-8735546255287972/4391220272",
+        "rewarded":"ca-app-pub-8735546255287972/2319041966",
+        "expressId":"ca-app-pub-8735546255287972/1744326896"
+    },
+    "csj":{
+        "splash":"888134631",
+        "rewarded":"951341260",
+        "expressId":"951338398"
+    },
+    "rewarded_time":240
+}
