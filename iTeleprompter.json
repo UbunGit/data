@@ -1,0 +1,16 @@
+{
+    "platforms": [0,1],
+    "google":{
+        "splash":"ca-app-pub-8735546255287972/2717063998",
+        "rewarded":"ca-app-pub-8735546255287972/2092210635",
+        "expressId":"ca-app-pub-8735546255287972/5981971293"
+    },
+    "csj":{
+        "appid":"5372524",
+        "splash":"888166182",
+        "rewarded":"951546588",
+        "expressId":"951546588"
+    },
+    "rewarded_time":240,
+    "version":20230308
+}
