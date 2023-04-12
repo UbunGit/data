@@ -1,0 +1,204 @@
+[
+    {
+        "id":20230406000,
+        "name":"awesome-ios-cn",
+        "owner":[
+          
+        ],
+        "url":"https://github.com/jobbole/awesome-ios-cn",
+        "content":"iOS 资源大全中文版，内容包括：框架、组件、测试、Apple Store、SDK、XCode、网站、书籍等",
+        "remarks":["资源大全","SDK","书籍"]
+    },
+    {
+        "id":20230406001,
+        "name":"SwiftyJSON",
+        "owner":[
+            {
+                "name":"tangplin",
+                "homepage":"https://github.com/tangplin"
+            },
+            {
+                "name":"lingoer",
+                "homepage":"https://github.com/lingoer"
+            }
+        ],
+        "url":"https://github.com/SwiftyJSON/SwiftyJSON",
+        "content":"GitHub 上最为开发者认可的 JSON 解析库",
+        "remarks":["JSON","工具"]
+    },
+    {
+        "id":20230406002,
+        "name":"AlecrimCoreData",
+        "owner":[
+            {
+                "name":"Alecrim",
+                "homepage":"https://github.com/Alecrim/AlecrimCoreData"
+            },
+        ],
+        "url":"https://github.com/Alecrim/AlecrimCoreData",
+        "content":"更容易地访问 CoreData 对象封装类库",
+        "remarks":["存储"]
+    },
+    {
+        "id":20230406003,
+        "name":"SnapKit",
+        "owner":[
+           
+        ],
+        "url":"https://github.com/SnapKit/SnapKit",
+        "content":"一个 iOS 和 OS X 的 Swift Autolayout 领域专用语言",
+        "remarks":["布局"]
+    },
+    {
+        "id":20230406004,
+        "name":"ios-charts",
+        "owner":[
+           
+        ],
+        "url":"https://github.com/danielgindi/Charts",
+        "content":"一个强大的图表框架，MPAndroidChart 在 iOS 上的移植",
+        "remarks":["图表"]
+    },
+    {
+        "id":20230406005,
+        "name":"Realm",
+        "owner":[
+           
+        ],
+        "url":"https://github.com/realm/realm-swift",
+        "content":"CoreData 和 SQLite 的替代品。简洁、现代、快速。",
+        "remarks":["数据库"]
+    },
+    {
+        "id":20230406006,
+        "name":"FMDB",
+        "owner":[
+           
+        ],
+        "url":"https://github.com/ccgus/fmdb",
+        "content":"SQLite 的 Cocoa/Objective-C 封装",
+        "remarks":["数据库"]
+    },
+    {
+        "id":20230406007,
+        "name":"MBProgressHUD",
+        "owner":[
+           
+        ],
+        "url":"https://github.com/jdg/MBProgressHUD",
+        "content":"用于显示一个半透明的 HUD。当任务在后台线程结束时可以在上边显示一个指示器和／或者标签",
+        "remarks":["HUD"]
+    },
+    {
+        "id":20230406008,
+        "name":"SVProgressHUD",
+        "owner":[
+           
+        ],
+        "url":"https://github.com/SVProgressHUD/SVProgressHUD",
+        "content":"一个为你的 iOS 应用制作的简洁，轻量级的进度指示 HUD",
+        "remarks":["HUD"]
+    },
+    {
+        "id":20230406009,
+        "name":"ProgressHUD",
+        "owner":[
+        ],
+        "url":"https://github.com/relatedcode/ProgressHUD",
+        "content":"ProgressHUD 是一个轻量易用的 HUD",
+        "remarks":["HUD"]
+    },
+    {
+        "id":20230406010,
+        "name":"FileKit",
+        "owner":[
+        ],
+        "url":"https://github.com/nvzqz/FileKit",
+        "content":"Swift 实现的简单快捷的文件管理工具",
+        "remarks":["文件"]
+    },
+    {
+        "id":20230406011,
+        "name":"Masonry",
+        "owner":[
+        ],
+        "url":"https://github.com/SnapKit/Masonry",
+        "content":"利用简单的，链式的语法发挥出自动布局 NSLayoutConstraints 的强大功能",
+        "remarks":["布局"]
+    },
+    {
+        "id":20230406012,
+        "name":"CocoaLumberjack",
+        "owner":[
+        ],
+        "url":"https://github.com/CocoaLumberjack/CocoaLumberjack",
+        "content":"一个快捷强大灵活的日志框架，可用于 iOS & Mac",
+        "remarks":["布局"]
+    },
+    {
+        "id":20230406013,
+        "name":"SDWebImage",
+        "owner":[
+        ],
+        "url":"https://github.com/SDWebImage/SDWebImage",
+        "content":"异步的图像下载器，提供了缓存支持。以 UIImageView 类别的方式提供",
+        "remarks":["图片"]
+    },
+    {
+        "id":20230406014,
+        "name":"MobilePlayer",
+        "owner":[
+        ],
+        "url":"https://github.com/sahin/mobileplayer-ios",
+        "content":"一个强大完善且完全可定制的 iOS 媒体播放器",
+        "remarks":["视频"]
+    },
+    {
+        "id":20230406015,
+        "name":"AFNetworking",
+        "owner":[
+        ],
+        "url":"https://github.com/AFNetworking/AFNetworking",
+        "content":"一个得心应手的 iOS 和 OSX 上的网络请求框架",
+        "remarks":["网络"]
+    },
+    {
+        "id":20230406016,
+        "name":"Alamofire",
+        "owner":[
+        ],
+        "url":"https://github.com/Alamofire/Alamofire",
+        "content":"Alamofire 是一个 Swift 写的 HTTP 网络库，由 AFNetworking 的作者编写",
+        "remarks":["网络"]
+    },
+    {
+        "id":20230406017,
+        "name":"SwiftRandom",
+        "owner":[
+        ],
+        "url":"https://github.com/thellimist/SwiftRandom",
+        "content":"随即数据生成器",
+        "remarks":["工具"]
+    },
+    {
+        "id":20230406018,
+        "name":"UICKeyChainStore",
+        "owner":[
+        ],
+        "url":"https://github.com/kishikawakatsumi/UICKeyChainStore",
+        "content":"UICKeyChainStore 是一个对 Keychain 的简洁封装",
+        "remarks":["工具"]
+    },
+    {
+        "id":20230406019,
+        "name":"InputBarAccessoryView",
+        "owner":[
+        ],
+        "url":"https://github.com/nathantannar4/InputBarAccessoryView",
+        "content":"一个简单而容易定制的InputAccessoryView，用于制作具有自动完成和附件的强大输入栏",
+        "remarks":["工具"]
+    },
+   
+ 
+]
+
